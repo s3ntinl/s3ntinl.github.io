@@ -11,9 +11,12 @@ draft: false
 ## Certifications
 
 <img src="https://www.offsec.com/_astro/OSCP-plus.BZHuApYA.svg" alt="OSCP+" width="100">
+<img src="https://static.offsec.com/media/lms/credentials/OSWP_Acclaim_Badge.svg" alt="OSWP" width="100">
+<img src="https://static.offsec.com/media/lms/credentials/KLCP_Acclaim_Badge.svg" alt="KLCP" width="100">
+
 
 ## Biography
-Hi! My name is Marcos, and I’m a 21-year-old Cybersecurity student. I own the **OSCP+** Certification. On the Internet, you might know me as **S3n** or **S3ntinl**. I’m currently pursuing a Master’s Degree in Cybersecurity for Information Technology Environments.
+Hi! My name is Marcos, and I’m a 22-year-old Cybersecurity student. I own the **OSCP+**, **OSWP** and **KLCP** Certifications. On the Internet, you might know me as **S3n** or **S3ntinl**.
 
 I spend most of my time coding, solving CTFs, or overall, studying. My passion lies into hacking and finding creative ways to solve problems.
 
