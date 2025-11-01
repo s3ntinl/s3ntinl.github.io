@@ -37,7 +37,7 @@ Aquí tenéis el enlace a [WiFiChallenge Lab](https://lab.wifichallenge.com/) po
 
 ![OSWP2](/img/oswp/oswp2.png)
 
-Para practicar para el OSWP hay que buscarse un poco la vida, ya que necesitas una antena WiFi que se pueda poner en mood monitor y un Punto de Acceso que permita configurar los distintos entornos del examen. Aquí es donde el laboratorio WifiChallenge resulta muy útil, ya que permite probar todo en una máquina virtual sin necesidad de gastar más dinero.
+Para practicar para el OSWP hay que buscarse un poco la vida, ya que necesitas una antena WiFi que se pueda poner en modo monitor y un Punto de Acceso que permita configurar los distintos entornos del examen. Aquí es donde el laboratorio WifiChallenge resulta muy útil, ya que permite probar todo en una máquina virtual sin necesidad de gastar más dinero.
 
 Pero la verdad, si te lo puedes permitir, te recomiendo encarecidamente que configures tus propios entornos de laboratorio con equipo real. Si te mola el cacharreo como a mi, te va a gustar la experiencia.
 
