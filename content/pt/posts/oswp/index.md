@@ -63,7 +63,7 @@ No te preocupes demasiado por el informe. Con que puedas explicar los ataques, h
 
 ### Nota importante
 
-> NO SE PERMITEN herramientas automatizadas
+> NO SE PERMITEN HERRAMIENTAS AUTOMATIZADAS
 
 Si usas WiFi-Challenge Labs como entorno de práctica, asegúrate de aprender a realizar los ataques manualmente y no solo con herramientas como `eaphammer`, `eapbuster`, `wifite`, etc.
 
