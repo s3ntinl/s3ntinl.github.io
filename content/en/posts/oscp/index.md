@@ -1,7 +1,7 @@
 
 ---
 title: "I Passed the OSCP: Here’s What Worked for Me"
-summary: "In this post, I share a quick overview of my OSCP journey with you, from how I prepared the certification to the struggles that I´ve had. Take a look!"
+summary: "In this post, I share a quick overview of my OSCP journey with you, from how I prepared the certification to the struggles that I've had. Take a look!"
 categories: ["Post","Blog",]
 tags: ["certification experience"]
 #externalUrl: ""
