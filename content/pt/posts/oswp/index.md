@@ -41,7 +41,7 @@ Para practicar para el OSWP hay que buscarse un poco la vida, ya que necesitas u
 
 Pero la verdad, si te lo puedes permitir, te recomiendo encarecidamente que configures tus propios entornos de laboratorio con equipo real. Si te mola el cacharreo como a mi, te va a gustar la experiencia.
 
-En cuanto a la preparación, el contenido de OffSec me pareció demasiado conciso. Sentí que solo te prepara para el examen, pero no para el mundo real. Por eso recomiendo muy mucho practicar con WifiChallenge, pues vas a aparender mucho más. De nuevo, esto no es necesario para aprobar el examen, pero, al fin y al cabo, estamos aquí para aprender, no solo para aprobar certs.
+En cuanto a la preparación, el contenido de OffSec me pareció demasiado conciso. Sentí que solo te prepara para el examen, y no para el mundo real. Por eso recomiendo muy mucho practicar con WifiChallenge, pues vas a aparender mucho más. De nuevo, esto no es necesario para aprobar el examen, pero, al fin y al cabo, estamos aquí para aprender, no solo para aprobar certs.
 
 Tuve la misma sensación con el curso PEN-200 para el OSCP. Me preparé el examen OSCP con el contenido del CPTS de HackTheBox, un poco overkill lo mismo, pero siempre es útil saber de más.
 
