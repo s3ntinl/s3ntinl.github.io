@@ -10,10 +10,11 @@ draft: false
 ---
 ## Certifications
 
-<img src="https://www.offsec.com/_astro/OSCP-plus.BZHuApYA.svg" alt="OSCP+" width="100">
-<img src="https://static.offsec.com/media/lms/credentials/OSWP_Acclaim_Badge.svg" alt="OSWP" width="100">
-<img src="https://static.offsec.com/media/lms/credentials/KLCP_Acclaim_Badge.svg" alt="KLCP" width="100">
-
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://www.offsec.com/_astro/OSCP-plus.BZHuApYA.svg" alt="OSCP+" width="100">
+  <img src="https://static.offsec.com/media/lms/credentials/OSWP_Acclaim_Badge.svg" alt="OSWP" width="100">
+  <img src="https://static.offsec.com/media/lms/credentials/KLCP_Acclaim_Badge.svg" alt="KLCP" width="100">
+</div>
 
 ## Biography
 Hi! My name is Marcos, and I’m a 22-year-old Cybersecurity student. I own the **OSCP+**, **OSWP** and **KLCP** Certifications. On the Internet, you might know me as **S3n** or **S3ntinl**.
