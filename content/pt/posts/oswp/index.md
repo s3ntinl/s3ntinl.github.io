@@ -1,6 +1,6 @@
 
 ---
-title: "OSWP: Trucos and Consejos para Pwnear todas las Redes!"
+title: "OSWP: Trucos y Consejos para aprobar la Certificación"
 summary: "Recientemente obtuve la certificación OSWP y en este post te cuento cómo me preparé y qué aprendí de toda la experiencia!"
 categories: ["Post","Blog",]
 tags: ["certification experience"]
