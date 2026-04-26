@@ -6,8 +6,28 @@
     <description>Recent content in Tags on S3ntinl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <copyright>© 2025 S3ntinl</copyright>
-    <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/pt-pt/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 S3N</copyright>
+    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/pt-pt/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Certification Experience</title>
+      <link>//localhost:1313/pt-pt/tags/certification-experience/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pt-pt/tags/certification-experience/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hackthebox Challenge</title>
+      <link>//localhost:1313/pt-pt/tags/hackthebox-challenge/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pt-pt/tags/hackthebox-challenge/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Hackthebox Machine</title>
@@ -25,16 +45,6 @@
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/pt-pt/tags/tool/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Certification Experience</title>
-      <link>//localhost:1313/pt-pt/tags/certification-experience/</link>
-      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/pt-pt/tags/certification-experience/</guid>
       <description></description>
       
     </item>

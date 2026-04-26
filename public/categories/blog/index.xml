@@ -6,8 +6,48 @@
     <description>Recent content in Blog on S3ntinl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 S3ntinl</copyright>
-    <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 S3N</copyright>
+    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OSWP: Tips and Tricks to Pwn all Networks!</title>
+      <link>//localhost:1313/posts/oswp/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/oswp/</guid>
+      <description>I recently went through the OSWP certification, and in this post I’ll share how I prepared, what went wrong, and what I learned from the whole experience.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/oswp/cover.png" />
+    </item>
+    
+    <item>
+      <title>WayWitch</title>
+      <link>//localhost:1313/posts/waywitch/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/waywitch/</guid>
+      <description>Very Easy Web Challenge. Based on abusing some bad practices when using JSON Web Tokens.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/waywitch/cover.png" />
+    </item>
+    
+    <item>
+      <title>Armaxis</title>
+      <link>//localhost:1313/posts/armaxis/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/armaxis/</guid>
+      <description>A simple web challenge where we abuse and IDOR to access a privileged account, to take advantage of a LFI via Mardown Injection</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/armaxis/cover.png" />
+    </item>
+    
+    <item>
+      <title>I Passed the OSCP: Here’s What Worked for Me</title>
+      <link>//localhost:1313/posts/oscp/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/oscp/</guid>
+      <description>In this post, I share a quick overview of my OSCP journey with you, from how I prepared the certification to the struggles that I&amp;rsquo;ve had. Take a look!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/oscp/cover.png" />
+    </item>
     
     <item>
       <title>Sauna</title>
@@ -57,16 +97,6 @@
       <guid>//localhost:1313/posts/busqueda/</guid>
       <description>Busqueda is an Easy Difficulty Linux machine that involves exploiting a command injection vulnerability present in a &lt;code&gt;Python&lt;/code&gt; module to gain user-level access to the machine. To escalate privileges to &lt;code&gt;root&lt;/code&gt;, we discover credentials within a &lt;code&gt;Git&lt;/code&gt; config file, allowing us to log into a local &lt;code&gt;Gitea&lt;/code&gt; service.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/busqueda/cover.png" />
-    </item>
-    
-    <item>
-      <title>Aprobé el OSCP: Así es como lo he hecho</title>
-      <link>//localhost:1313/posts/oscp/oscp/</link>
-      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/posts/oscp/oscp/</guid>
-      <description>En este post, te cuento un resumen rápido de mi experiencia con el OSCP, desde cómo preparé la certificación hasta el día del examen. Echa un vistazo!</description>
-      
     </item>
     
     <item>

@@ -6,8 +6,38 @@
     <description>Recent content in Posts on S3ntinl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <copyright>© 2025 S3ntinl</copyright>
-    <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/pt-pt/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 S3N</copyright>
+    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/pt-pt/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OSWP: Trucos y Consejos para aprobar la Certificación</title>
+      <link>//localhost:1313/pt-pt/posts/oswp/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pt-pt/posts/oswp/</guid>
+      <description>Recientemente obtuve la certificación OSWP y en este post te cuento cómo me preparé y qué aprendí de toda la experiencia!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/pt-pt/posts/oswp/cover.png" />
+    </item>
+    
+    <item>
+      <title>WayWitch</title>
+      <link>//localhost:1313/pt-pt/posts/waywitch/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pt-pt/posts/waywitch/</guid>
+      <description>Challenge Web de categoría muy fácil. Centrado en explotar algunas malas prácticas de los JSON Web Tokens.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/pt-pt/posts/waywitch/cover.png" />
+    </item>
+    
+    <item>
+      <title>Armaxis</title>
+      <link>//localhost:1313/pt-pt/posts/armaxis/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pt-pt/posts/armaxis/</guid>
+      <description>Un desafío web simple en el que abusamos de un IDOR para acceder a una cuenta privilegiada, para aprovechar un LFI mediante inyección de Mardown</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/pt-pt/posts/armaxis/cover.png" />
+    </item>
     
     <item>
       <title>Aprobé el OSCP: Así es como lo he hecho</title>

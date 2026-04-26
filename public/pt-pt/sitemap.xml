@@ -4,7 +4,7 @@
 
   <url>
     <loc>//localhost:1313/pt-pt/categories/blog/</loc>
-    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>//localhost:1313/pt-pt/categories/</loc>
-    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -32,6 +32,166 @@
       rel="alternate"
       hreflang="es"
       href="//localhost:1313/pt-pt/categories/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/pt-pt/tags/certification-experience/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/tags/certification-experience/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/tags/certification-experience/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/pt-pt/posts/oswp/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/posts/oswp/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/posts/oswp/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/pt-pt/categories/post/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/categories/post/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/categories/post/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/pt-pt/posts/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/posts/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/pt-pt/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/pt-pt/tags/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/tags/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/pt-pt/tags/hackthebox-challenge/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/tags/hackthebox-challenge/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/tags/hackthebox-challenge/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/pt-pt/posts/waywitch/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/posts/waywitch/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/posts/waywitch/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/pt-pt/posts/armaxis/</loc>
+    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/posts/armaxis/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/posts/armaxis/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/pt-pt/posts/oscp/</loc>
+    <lastmod>2025-04-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/posts/oscp/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="//localhost:1313/pt-pt/posts/oscp/"
     />
   </url>
   <url>
@@ -51,54 +211,6 @@
     />
   </url>
   <url>
-    <loc>//localhost:1313/pt-pt/categories/post/</loc>
-    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/categories/post/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="//localhost:1313/pt-pt/categories/post/"
-    />
-  </url>
-  <url>
-    <loc>//localhost:1313/pt-pt/posts/</loc>
-    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/posts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="//localhost:1313/pt-pt/posts/"
-    />
-  </url>
-  <url>
-    <loc>//localhost:1313/pt-pt/</loc>
-    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="//localhost:1313/pt-pt/"
-    />
-  </url>
-  <url>
     <loc>//localhost:1313/pt-pt/posts/sauna/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -112,22 +224,6 @@
       rel="alternate"
       hreflang="es"
       href="//localhost:1313/pt-pt/posts/sauna/"
-    />
-  </url>
-  <url>
-    <loc>//localhost:1313/pt-pt/tags/</loc>
-    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="//localhost:1313/pt-pt/tags/"
     />
   </url>
   <url>
@@ -182,38 +278,6 @@
       rel="alternate"
       hreflang="es"
       href="//localhost:1313/pt-pt/posts/active/"
-    />
-  </url>
-  <url>
-    <loc>//localhost:1313/pt-pt/tags/certification-experience/</loc>
-    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/tags/certification-experience/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="//localhost:1313/pt-pt/tags/certification-experience/"
-    />
-  </url>
-  <url>
-    <loc>//localhost:1313/pt-pt/posts/oscp/oscp/</loc>
-    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/posts/oscp/oscp/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="//localhost:1313/pt-pt/posts/oscp/oscp/"
     />
   </url>
   <url>
