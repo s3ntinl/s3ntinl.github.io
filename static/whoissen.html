@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hacked by S3N</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: #101c4d;
+            color: #ffffff;
+            font-family: 'Fira Code', monospace;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            position: relative;
+        }
+
+        body::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: 
+                radial-gradient(ellipse at 20% 50%, rgba(120, 40, 200, 0.15) 0%, transparent 50%),
+                radial-gradient(ellipse at 80% 50%, rgba(180, 60, 255, 0.1) 0%, transparent 50%);
+            pointer-events: none;
+        }
+
+        .scanline {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: repeating-linear-gradient(
+                0deg,
+                transparent,
+                transparent 2px,
+                rgba(0, 0, 0, 0.08) 2px,
+                rgba(0, 0, 0, 0.08) 4px
+            );
+            pointer-events: none;
+            z-index: 10;
+        }
+
+        .container {
+            text-align: center;
+            z-index: 5;
+            padding: 2rem;
+        }
+
+        .glitch {
+            font-size: clamp(2.5rem, 8vw, 5rem);
+            font-weight: 700;
+            color: #ffffff;
+            text-shadow: 
+                0 0 10px rgba(180, 100, 255, 0.8),
+                0 0 40px rgba(180, 100, 255, 0.4),
+                0 0 80px rgba(180, 100, 255, 0.2);
+            letter-spacing: 0.1em;
+            animation: flicker 4s infinite;
+        }
+
+        .photo {
+            margin-top: 2rem;
+        }
+
+        .photo img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 2px solid rgba(180, 100, 255, 0.5);
+            box-shadow: 0 0 20px rgba(180, 100, 255, 0.3);
+        }
+
+        .sub {
+            margin-top: 2rem;
+            font-size: clamp(1rem, 3vw, 1.4rem);
+        }
+
+        .sub a {
+            color: rgba(255, 255, 255, 0.7);
+            text-decoration: none;
+            border-bottom: 1px solid rgba(180, 128, 224, 0.3);
+            padding-bottom: 2px;
+            transition: all 0.3s ease;
+        }
+
+        .sub a:hover {
+            color: #ffffff;
+            border-bottom-color: #ffffff;
+            text-shadow: 0 0 15px rgba(180, 100, 255, 0.6);
+        }
+
+        .cursor {
+            display: inline-block;
+            width: 2px;
+            height: 1.2em;
+            background: #ffffff;
+            margin-left: 4px;
+            vertical-align: text-bottom;
+            animation: blink 1s step-end infinite;
+        }
+
+        @keyframes blink {
+            50% { opacity: 0; }
+        }
+
+        @keyframes flicker {
+            0%, 95%, 100% { opacity: 1; }
+            96% { opacity: 0.8; }
+            97% { opacity: 1; }
+            98% { opacity: 0.6; }
+            99% { opacity: 1; }
+        }
+    </style>
+</head>
+<body>
+    <div class="scanline"></div>
+    <div class="container">
+        <div class="glitch">Hacked by S3N</div>
+        <div class="photo">
+            <img src="/img/author_hu3059961241209696298.jpeg" alt="S3N">
+        </div>
+        <div class="sub">
+            <a href="https://s3ntinl.github.io">who is S3N?</a><span class="cursor"></span>
+        </div>
+    </div>
+</body>
+</html>
